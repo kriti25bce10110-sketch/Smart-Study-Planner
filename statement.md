@@ -22,13 +22,13 @@ The main objective of this project is to develop a Smart Study Planner that:
 
 The scope of this project is to design and develop a simple Smart Study Planner using Artificial Intelligence and Machine Learning techniques.
 
-The system:
+* The system:
 
 Takes input such as subject difficulty and study hours
 Predicts the estimated time required to complete a task
 Provides simple suggestions (easy, moderate, difficult)
 
-This project is limited to:
+* This project is limited to:
 
 Basic prediction using a small dataset
 Beginner-level Machine Learning (Linear Regression)
@@ -40,13 +40,13 @@ It does not include advanced features like mobile applications, real-time tracki
 
 The target users of this project include:
 
-School Students
+* School Students
 Who need help in organizing their daily study schedule
-College Students
+* College Students
 Who face multiple subjects and deadlines
-Competitive Exam Aspirants
+* Competitive Exam Aspirants
 Who need proper time planning for preparation
-Online Learners
+* Online Learners
 Who study independently and need structured planning
 
 This system is especially useful for beginners who want a simple and effective way to manage their study time.
