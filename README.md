@@ -30,12 +30,11 @@ Build a simple and understandable beginner project
 - Linear Regression – Algorithm for prediction
 
 # Project Structure
--smart-study-planner/
-
--│── main.py
--│── requirements.txt
--│── README.md
--│── report.pdf
+smart-study-planner/
+│── main.py
+│── requirements.txt
+│── README.md
+│── report.pdf
 
 # Installation & Setup
 1. Clone the repository:
