@@ -30,12 +30,12 @@ Build a simple and understandable beginner project
 - Linear Regression – Algorithm for prediction
 
 # Project Structure
-smart-study-planner/
+-smart-study-planner/
 
-│── main.py
-│── requirements.txt
-│── README.md
-│── report.pdf
+-│── main.py
+-│── requirements.txt
+-│── README.md
+-│── report.pdf
 
 # Installation & Setup
 1. Clone the repository:
@@ -46,18 +46,18 @@ cd smart-study-planner
 pip install -r requirements.txt
 
 # How to Run
-Run the Python file:
+-Run the Python file:
 python main.py
-Enter:
+-Enter:
 Subject difficulty (1–5)
 Study hours
 
 # Example Output
-Enter subject difficulty (1-5): 4
-Enter study hours: 3
+-Enter subject difficulty (1-5): 4
+-Enter study hours: 3
 
-Predicted Completion Time: 5.2 hours
-Moderate subject, plan properly.
+-Predicted Completion Time: 5.2 hours
+-Moderate subject, plan properly.
 
 # Future Improvements
 - GUI interface
@@ -65,9 +65,9 @@ Moderate subject, plan properly.
 - Real-time tracking
 
 # What I Learned
-Basics of Artificial Intelligence and Machine Learning
-How Linear Regression works
-How to train and use ML models
-Combining ML predictions with AI decision-making
-Building a complete project with code and documentation
+-Basics of Artificial Intelligence and Machine Learning
+-How Linear Regression works
+-How to train and use ML models
+-Combining ML predictions with AI decision-making
+-Building a complete project with code and documentation
 
