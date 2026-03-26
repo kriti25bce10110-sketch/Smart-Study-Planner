@@ -31,6 +31,7 @@ Build a simple and understandable beginner project
 
 # Project Structure
 smart-study-planner/
+
 │── main.py
 │── requirements.txt
 │── README.md
