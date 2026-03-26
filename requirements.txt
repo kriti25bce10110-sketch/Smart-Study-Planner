@@ -1,2 +1,2 @@
 Scikit-learn
-Pandas (optional)
+Pandas
